@@ -16,4 +16,6 @@ You may clone our source to use, however you cannot claim it as your OWN as it i
 
 <a href="https://github.com/osushibui/avatars">Avatar Server</a> - is what it says on the tin: it handles avatars.
 
+<a href="https://github.com/osushibui/blush">Blush (Discord Bot)</a> - Real time in-game integration for stats, top plays etc.
+
 If you need any support with our source (PLEASE dont ask for me to setup a server for you, I wont!) then join our Discord (available from our <a href="https://shibui.pw">website</a>) and message James (me) for support. I will help you as much as I can, but please don't be a retard.
